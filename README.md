@@ -1,2 +1,2 @@
-# Social-Ads-Create-a-sponsored-post-for-Face-Bookr
+# Social-Ads-Create-a-sponsored-post-for-Face-Book
 Ad for Facebook
